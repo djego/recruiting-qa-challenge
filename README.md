@@ -30,25 +30,16 @@ Los criterios de aceptación para el login son los siguientes:
 
 El equipo maneja varios ambientes de trabajo (desarrollo, pruebas, produccion) a lo largo del desarrollo del producto. Consideramos que la calidad debe asegurarse en todo el flujo, por lo tanto las pruebas debes realizarce en cada uno de los ambientes propuestos.
 
-```mermaid
-sequenceDiagram
-Dev ->> Qa: --pruebas--
-Qa ->> Prod: --pruebas--
-Qa ->> Dev: --pruebas--
-Prod ->> Qa: --pruebas--
-```
+![Flujo de trabajo](workflow.png)
+
 
 > Puede sugerirse otra estructura
 
 Tambien se tiene una integración continua y una entrega continua, esto quiere decir que el trabajo realizado por cada unos de los miembros de equipo se centraliza y debe que ser evaluado antes de enviar una nueva versión al siguiente ambiente propuesto.
 
-```mermaid
-graph LR
-A((local)) -- pruebas --> B
-B[Gestor de versiones]-- pruebas --> C((Dev))
-C -- pruebas --> D((Qa))
-D -- pruebas --> E((Prod))
-```
+![Pipeline](pipeline.png)
+
+
 > Puede sugerirse otra estructura
 
 ### Pasos
