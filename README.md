@@ -55,8 +55,8 @@ D -- pruebas --> E((Prod))
 
 Descarga el proyecto 🗂y levanta🔥los servicios :
 
-    $ git clone https://gitlab.com/kambista-public/qa-challenge.git
-    $ cd qa-challenge
+    $ git clone https://github.com/djego/recruiting-qa-challenge.git
+    $ cd recruiting-qa-challenge
     $ cd back/
     $ npm run start
     $ cd ..
