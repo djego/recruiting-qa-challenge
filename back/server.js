@@ -39,7 +39,7 @@ app.post('/register', middleware, (req, res) => {
 
 app.post('/login', middleware, (req, res) => {
   const { email, password } = req.body
-  email === 'correo@kambista.com' && password === 'password'
+  email === 'diego@lacafetalab.pe' && password === 'password'
     ? res.json({
         code: 201,
         msg: 'LOGIN'
