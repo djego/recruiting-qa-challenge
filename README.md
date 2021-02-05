@@ -60,11 +60,11 @@ Descarga el proyecto 🗂y levanta🔥los servicios :
 
 
  1. Identifica las tareas y/o casos de prueba que estarían enlazadas a las requerimientos propuestos. ( qa-challenge-[nombre].docx )
- 2. Implementa los tipos de pruebas que consideres necesarios ( unitarias, servicios, funcionales , manuales, etc), de tal manera que se pueda evaluar los requerimientos solicitados. Se debe crear un proyecto en una carpeta aparte llamada qaChallenge.
+ 2. Implementa los tipos de pruebas que consideres necesarios (unitarias, servicios, funcionales , manuales, etc), de tal manera que se pueda evaluar los requerimientos solicitados. Se debe crear un proyecto en una carpeta aparte llamada qaChallenge (utiliza el frameowrk de automatización que prefieras y subilo a tu repositorio).
  3. Comentar sobre el flujo y los ambientes de trabajo y sugiere mejoras. ( qa-challenge-[nombre].docx )
  4. Sugerir en qué ambiente y en qué momento del flujo de trabajo se deben ejecutar cada tipo de pruebas.  ( qa-challenge-[nombre].docx )
- 5. Publícalo en el repositorio de tu preferencia y envíanos un correo con el link y el documento ( qa-challenge-[nombre].docx ) a: diegomachaca@lacafetalab.pe
+ 5. Publícalo en el repositorio de tu preferencia y envíanos un correo con el link y el documento ( qa-challenge-[nombre].docx ) a: dmachaca@inlearning.edu.pe
  
-Ante cualquier duda puedes enviar un correo a diegomachaca@lacafetalab.pe y estaremos encantados de ayudarte. 
+Ante cualquier duda puedes enviar un correo a dmachaca@inlearning.edu.pe y estaremos encantados de ayudarte. 
 
 Exitos y gracias por tu tiempo!😃
